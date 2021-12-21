@@ -1,5 +1,5 @@
 {
-    "name": "EvaMariaBot",
+    "name": "FilterBot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/TeamInfinityGO",
+    "repository": "https://github.com/TeamInfinityGO/InfinityMovieBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -89,7 +89,7 @@
             "required": false
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/EvamariaTG/EvaMaria/issues/22",
+            "description": "choose b/w single or double buttons https://github.com/TeamInfinityGO/InfinityMovieBot/issues/22",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
